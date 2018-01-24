@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\bin\Debug\Code_Academy_project.exe.config
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\bin\Debug\Code_Academy_project.exe
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\bin\Debug\Code_Academy_project.pdb
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\obj\Debug\Code_Academy_project.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\obj\Debug\Code_Academy_project.Form1.resources
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\obj\Debug\Code_Academy_project.Properties.Resources.resources
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\obj\Debug\Code_Academy_project.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\obj\Debug\Code_Academy_project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\obj\Debug\Code_Academy_project.exe
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\obj\Debug\Code_Academy_project.pdb
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\obj\Debug\Code_Academy_project.AdminPanelForm.resources
+C:\Users\Admin\source\repos\Code_Academy_project\Code_Academy_project\obj\Debug\Code_Academy_project.AddNewTeacherForm.resources
